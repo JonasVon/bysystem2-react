@@ -1,0 +1,16 @@
+.login-page{
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  .img-container{
+    flex: 7;
+    height: 100%;
+    img{
+      width: 100%;
+      height: 100%;
+    }
+  }
+  .login-container{
+    flex: 3;
+  }
+}
